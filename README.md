@@ -1,5 +1,5 @@
-## Spring Boot 快速开发脚手架
-使用java8，集成Spring Security
+## Spring Security 认证Demo
+使用java8，集成Spring Security，参考内置的表单登录，模拟实现2种登录方式。
 
 已实现的登录功能包括：  
 - 用户名密码登录 /login  
